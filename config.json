@@ -1,0 +1,9 @@
+{
+	"ip":"cursedSMPH.aternos.me",
+	"port": "60653",
+	"name": "Error404",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
